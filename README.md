@@ -1,8 +1,5 @@
 # simple-etcd-backup-restore
 
--   Founder: Abdullah Khawer (LinkedIn: https://www.linkedin.com/in/abdullah-khawer/)
--   Version: v1.0
-
 ## Introduction
 
 A simple etcd backup and restore solution based on bash/shell scripts to backup/restore data from/to etcd in JSON format with the ability to compress/decompress the backup file and upload/download it on/from AWS S3.
